@@ -60,10 +60,6 @@ Utilizes CoT (Chain-of-Thought) patterns to ensure the AI agent reasons through 
 | Metric | DistilBERT Router |
 | :--- | :---: |
 | **Accuracy** | 98.3% |
-| **Inference Latency** |  |
-| **API Cost** |  |
-
-> **Business Impact:**
 
 ---
 
