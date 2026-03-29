@@ -1,5 +1,9 @@
 # 🚦 Adaptive Hybrid RAG Router: Cost-Efficient Agentic Orchestration
 
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![Libraries](https://img.shields.io/badge/Libraries-LangChain%20%7C%20Neo4j%20%7C%20Chroma-orange)
+![Models](https://img.shields.io/badge/Models-DistilBERT%20%7C%20GPT--4o-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 > **"An intelligent Agentic RAG framework that optimizes performance-to-cost ratios by utilizing Knowledge Distillation to route complex queries between Vector and Graph databases."**
 
